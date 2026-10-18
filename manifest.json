@@ -1,0 +1,1 @@
+{"name":"Student Hub","short_name":"Student Hub","description":"Your personal study dashboard","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#100d18","theme_color":"#100d18","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
